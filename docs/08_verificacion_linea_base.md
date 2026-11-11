@@ -82,19 +82,22 @@ También deberá quedar identificado el commit exacto que representa la versión
 
 La aprobación documental no significa que la aplicación web esté desarrollada o que sus funcionalidades hayan sido probadas. Se refiere a la aceptación de los documentos como referencia inicial del proyecto.
 
+
 ## 6. Registro de aprobación
 
 - Proyecto: Sistema Integral de Gestión de Restaurante.
 - Identificación: SIGR.
-- Versión propuesta: v1.0.0.
-- Repositorio: SIGR-Linea-Base.
-- Plataforma de control: GitHub.
+- Versión documental: v1.0.0.
+- Repositorio: Boris-wq/SIGR-Linea-Base.
 - Rama principal: main.
-- Fecha de revisión: Pendiente.
-- Responsable de revisión: Pendiente.
-- Responsable de aprobación: Pendiente.
-- Commit asociado: Pendiente de identificación.
-- Resultado: Pendiente de revisión.
+- Modalidad: Trabajo individual.
+- Estudiante responsable: Boris Castro.
+- Fecha de publicación: 11 de noviembre de 2026.
+- Commit asociado: 02e0ac6.
+- Estado de revisión: Pendiente de verificación final.
+- Responsable de aprobación académica: Docente de la asignatura.
+- Resultado: Pendiente de aprobación formal.
+
 
 ## 7. Conclusión
 
