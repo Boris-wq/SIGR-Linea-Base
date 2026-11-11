@@ -37,3 +37,26 @@ Para organizar el proyecto se utilizará Git y GitHub. Estas herramientas permit
 ## Estado actual
 
 El proyecto se encuentra en la etapa de documentación y definición de su línea base. Este repositorio servirá como espacio de trabajo para organizar y controlar los documentos del SIGR.
+
+
+## Documentación del proyecto
+
+Los documentos del SIGR se encuentran organizados en la carpeta docs:
+
+1. 01_descripcion_general.md
+2. 02_modulos_funcionales.md
+3. 03_manual_usuario.md
+4. 04_linea_base.md
+5. 05_control_cambios.md
+6. 06_estructura_datos.md
+7. 07_manual_despliegue.md
+8. 08_verificacion_linea_base.md
+
+## Repositorio
+
+https://github.com/Boris-wq/SIGR-Linea-Base
+
+## Alcance de esta entrega
+
+Esta entrega corresponde a la documentación y organización de la línea base. No incluye el desarrollo ni el despliegue de la aplicación web.
+
