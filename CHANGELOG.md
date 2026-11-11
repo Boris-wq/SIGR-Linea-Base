@@ -22,3 +22,21 @@ Versión inicial en proceso de documentación. Pendiente de completar y revisar 
 Los siguientes cambios se agregarán a este archivo cuando sean realizados y registrados en el repositorio.
 
 Cada actualización deberá indicar la versión correspondiente y describir brevemente qué se modificó.
+
+
+## Actualización de la documentación
+
+### Agregado
+- Descripción general del sistema.
+- Documentación funcional de los cinco módulos.
+- Manual de usuario para clientes, meseros y administradores.
+- Definición de la línea base documental.
+- Procedimiento de control de cambios.
+- Modelo lógico propuesto para la estructura de datos.
+- Manual de despliegue documental.
+- Criterios de verificación de la línea base.
+- Archivo de licencia MIT propuesto.
+
+### Estado
+Documentación inicial organizada. Pendiente de revisión final y aprobación de la línea base.
+
