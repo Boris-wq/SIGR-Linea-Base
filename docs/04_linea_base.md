@@ -86,8 +86,17 @@ Los datos de aprobación se completarán cuando se realice la revisión definiti
 - Responsable de aprobación: Pendiente.
 - Estado: En construcción y revisión documental.
 
-## 9. Consideración final
 
-La línea base documental permitirá que el equipo trabaje sobre una misma referencia y mantenga organizados los documentos del SIGR.
+## 9. Registro de identificación y aprobación
 
-Su aprobación no significa que la aplicación web ya esté construida. Significa que la documentación inicial ha sido revisada y aceptada como referencia para continuar el proyecto.
+- Proyecto: Sistema Integral de Gestión de Restaurante.
+- Identificación: SIGR.
+- Versión documental: v1.0.0.
+- Repositorio: Boris-wq/SIGR-Linea-Base.
+- Plataforma de control: GitHub.
+- Rama principal: main.
+- Modalidad de trabajo: Individual.
+- Estudiante responsable: Boris Castro.
+- Fecha de publicación: 11 de noviembre de 2026.
+- Commit asociado: 02e0ac6.
+- Estado: Publicación documental realizada. Pendiente de revisión y aprobación académica formal.
